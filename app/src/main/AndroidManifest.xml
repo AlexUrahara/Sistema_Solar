@@ -9,17 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SistemaSolar">
-        <activity
-            android:name=".adaptadorplaneta"
-            android:exported="false" />
-        <activity
-            android:name=".menu_planetas"
-            android:exported="false" />
-        <activity
-            android:name=".menu"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+        <activity android:name=".Activityparausar"></activity>
+        <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

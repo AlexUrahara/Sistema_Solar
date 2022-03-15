@@ -9,7 +9,10 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="moraratexto">#50398E</color>
+
+    <color name="grisparatexto">#8F8F8F</color>
+    <color name="blancoparatexto">#B7B7B7</color>
+    <color name="colorparatexto">#C0C2CC</color>
     <color name="Fondo_Oscuro">#202732</color>
     <color name="moradito">#EC64EA</color>
     <color name="azulito">#3978E9</color>
@@ -18,7 +21,7 @@
     <color name="colorBoton">#016A60</color>
     <color name="rojobajo">#ED2234</color>
 
-    <color name="colorboton1">#330F95</color>
+    <color name="colorboton1">#3248B4</color>
     <color name="lineasEdit">#572FC4</color>
 
 
